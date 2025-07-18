@@ -1,0 +1,1 @@
+Designed and implemented an object-oriented system to manage educational roles through hierarchical class structures. The project demonstrates core OOP concepts such as inheritance, encapsulation, and method overriding, using classes for Teacher, Lecturer, and Tutor.
